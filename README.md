@@ -1,16 +1,14 @@
-# face_or_crown
+# Face or Crown App
 
-Projeto Aplicativo Cara ou Coroa
+The following project was made in a Flutter course i made, and the main goals of this app were:
 
-## Getting Started
+* Learn how to send data to another screen;
+* Pratice navigation between screens;
 
-This project is a starting point for a Flutter application.
+Also, one of the app's goals was to pratice layout creation and customization.
+## How the App Works
 
-A few resources to get you started if this is your first Flutter project:
+When you inicialize the app, you will see a button to begin the game, when you click the button, a random number is generated to determine wich side of the coin you will see in the next screen, if it is 0, you will see Face, if it is 1, you will see Crown.
+## Author
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [@Salum28](https://github.com/Salum28)
